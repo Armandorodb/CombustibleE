@@ -19,3 +19,5 @@ Car Name: Modelo del auto.
 Creo que esta información tiene potencial para generar una regresión lineal ya que cuenta con datos en su mayoría cuantitativos y cualitativos que sospecho están estrechamente relacionados con el rendimiento de combustible. Un análisis pre eliminar al observar ciertas variables me di cuenta de que un modelo lineal o cuadrático podrían describir el comportamiento.  
 
 La base de datos tenía algunos valores de la variable de interés como NaN, se eliminaron esas filas ya que considero que cualquier manera de conseguir ese valor añadiría incertidumbre a nuestro modelo. Estaríamos construyendo nuestro modelo en terreno que no es firme.
+
+Se recomienda usar los datos de este repositorio ya que fuerón limpiados.
